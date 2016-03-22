@@ -95,15 +95,15 @@ print("Hello World!")
 # outFile.close()
 
 
-# print()
-# print("Begin List")
+print()
+print("Begin List")
 
-# l = ["a", "b", "c", 2, 3, 4]
-# for i in range(len(l)):
-#   print(l[i])
+l = ["a", "b", "c", 2, 3, 4]
+for i in range(len(l)):
+  print(l[i])
 
-# for e in l:
-#   print(e)
+for e in l:
+  print(e)
 
 print()
 print("Begin Dictionary")
