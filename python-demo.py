@@ -2,58 +2,6 @@ print("Hello World!")
 
 
 # print()
-# print("Begin Variables")
-# x = 1
-# y = 2
-# print("x=", x)
-# print("y=", y)
-
-
-# print()
-# print("Begin Operators")
-
-# print(x+y)
-# z = x + y
-# print("z=", z)
-# print(z < y)
-# print(z != y)
-
-
-# print()
-# print("Begin User Input")
-
-# nameStr = input("Name: ")
-# age = eval(input("Age: "))
-# print ("Your name is", nameStr, "and you are", age)
-
-# print()
-# print("Begin Functions")
-
-# def seven():
-#   return 7
-
-# def addNums(num1, num2):
-#   return num1+num2
-
-# print(addNums(7,8))
-# print(seven())
-
-# print()
-# print("Begin Loops")
-
-# for i in range(0,10):
-#   print(i)
-
-
-# print("Begin Loops")
-
-# for i in range(0,10):
-#   if (i % 2 == 1):
-#     print("Found an odd. Breaking")
-#     break
-#   else:
-#     print(i)
-
 
 # for i in range(0,10):
 #   if (i % 2 == 1):
